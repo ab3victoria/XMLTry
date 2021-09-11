@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<items>
+	<item>
+	  		<code>001</code>
+          	<name>book</name>
+          	<price>6.9</price>
+          	<amount>1</amount>
+	</item>
+	<item>
+	  		<code>005</code>
+          	<name>card</name>
+         	<price>6.9</price>
+          	<amount>1</amount>
+	</item>
+	<item>
+		<code>006</code>
+		<name>bag</name>
+		<price>80</price>
+		<amount>1</amount>
+	</item>
+</items>
