@@ -4,3 +4,6 @@
 ### קישור להסבר בסיסי על אקסמל:
  https://github.com/scala/scala-xml/wiki/Getting-started
 ### הקוד נמצא בתיקייה הזו  ----------src/main/scala
+### _______________________
+build.sbt---->add: 
+##### libraryDependencies += "org.scala-lang.modules" %% "scala-xml" % "2.0.1"
