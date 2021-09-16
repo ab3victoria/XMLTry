@@ -1,0 +1,13 @@
+[debug] Packaging C:\Users\Shlomi\Desktop\XMLTry\target\scala-2.13\xmltry_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Expense.class
+[debug] 	  C:\Users\Shlomi\Desktop\XMLTry\target\scala-2.13\classes\Expense.class
+[debug] 	Item.class
+[debug] 	  C:\Users\Shlomi\Desktop\XMLTry\target\scala-2.13\classes\Item.class
+[debug] 	Items.xml
+[debug] 	  C:\Users\Shlomi\Desktop\XMLTry\target\scala-2.13\classes\Items.xml
+[debug] 	SerializationObject$.class
+[debug] 	  C:\Users\Shlomi\Desktop\XMLTry\target\scala-2.13\classes\SerializationObject$.class
+[debug] 	SerializationObject.class
+[debug] 	  C:\Users\Shlomi\Desktop\XMLTry\target\scala-2.13\classes\SerializationObject.class
+[debug] Done packaging.

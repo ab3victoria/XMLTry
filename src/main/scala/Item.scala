@@ -1,9 +1,4 @@
-
-
-
-
-class Item(productCode: String, productName: String,productPrice:Double, productAmount: Int)
-{
+class Item(productCode: String, productName: String,productPrice:Double, productAmount: Int) {
       var code:String = productCode
       var name:String = productName
       var amount:Int = productAmount
@@ -15,7 +10,6 @@ class Item(productCode: String, productName: String,productPrice:Double, product
           <name>{name}</name>
           <price>{price}</price>
           <amount>{amount}</amount>
-
     </item>
   }
 }

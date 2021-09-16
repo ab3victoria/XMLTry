@@ -1,0 +1,13 @@
+[debug] > Exec(DateTimeFormat.forPattern("HH:mm").parseDateTime("9:45"), None, None)
+[error] Expected ID character
+[error] Not a valid command: DateTimeFormat
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected configuration ident
+[error] Expected '/'
+[error] Expected key
+[error] Not a valid key: DateTimeFormat (similar: timingFormat)
+[error] DateTimeFormat.forPattern("HH:mm").parseDateTime("9:45")
+[error]               ^
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<expenses>
+  <expense>
+    <name>Test 3</name>
+    <category>Testing</category>
+    <cost>150.45</cost>
+    <date>2021-09-18</date>
+    <time>00:25</time>
+  </expense>
+  <expense>
+    <name>Test</name>
+    <category>Testing</category>
+    <cost>150.45</cost>
+    <date>2021-09-17</date>
+    <time>10:25</time>
+  </expense>
+  <expense>
+    <name>Book</name>
+    <category>Education</category>
+    <cost>165.0</cost>
+    <date>2021-09-16</date>
+    <time>15:00</time>
+  </expense>
+  <expense>
+    <name>Movie</name>
+    <category>Entertainment</category>
+    <cost>80.0</cost>
+    <date>2021-09-12</date>
+    <time>21:45</time>
+  </expense>
+  <expense>
+    <name>T Shirts</name>
+    <category>Clothing</category>
+    <cost>150.0</cost>
+    <date>2021-09-05</date>
+    <time>15:45</time>
+  </expense>
+  <expense>
+    <name>Mobile bill</name>
+    <category>Communication</category>
+    <cost>100.0</cost>
+    <date>2021-09-01</date>
+    <time>10:00</time>
+  </expense>
+  <expense>
+    <name>Water</name>
+    <category>Bills</category>
+    <cost>20.45</cost>
+    <date>2021-08-10</date>
+    <time>12:25</time>
+  </expense>
+</expenses>
